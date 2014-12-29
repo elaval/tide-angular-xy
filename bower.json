@@ -1,0 +1,28 @@
+{
+  "name": "tide-angular-xy",
+  "version": "0.0.1",
+  "authors": [
+    "Ernesto Laval <ernesto.laval@gmail.com>"
+  ],
+  "description": "Angular directives for visual representations of XY (scattered) charts with linear regression option",
+  "main": "tide-angular-xy.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "data",
+    "visualization",
+    "chilecompra"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "tide-angular": "latest"  
+  }
+}
